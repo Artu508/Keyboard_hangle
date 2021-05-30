@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#00838F</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="keyboardBackground">#34495E</color>
+    <color name="keyboardDivider">#2C3E50</color>
+    <color name="keyboardPressed">#4D6D8D</color>
+    <color name="keyboardText">#FFFFFF</color>
+    <color name="keyboardPreview">#009688</color>
+
+    <!--Icon-->
+    <color name="iconHeadBackground">#FF5722</color>
+    <color name="iconKeyboardKey">#E0F7FA</color>
+    <color name="iconKeyboardBackground">#00BCD4</color>
+</resources>

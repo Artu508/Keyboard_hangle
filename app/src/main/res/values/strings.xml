@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keyboard_hangle</string>
+    <!-- Main Menu -->
+    <string name="menu_main_language" translatable="false">Language</string>
+    <string name="menu_main_theme" translatable="false">Theme</string>
+    <string name="menu_main_dictionary" translatable="false">Dictionary</string>
+    <string name="menu_main_developer" translatable="false">Developer Option</string>
+    <!-- Splash Screen -->
+    <string name="splash_button_activate_keyboard" translatable="false">Enable Keyboard</string>
+    <string name="splash_button_select_keyboard" translatable="false">Select Keyboard</string>
+    <string name="splash_toast_enable_keyboard" translatable="false">Please check Korean Keyboard App</string>
+
+    <!-- Dictionary Word Add-->
+    <string name="dict_add_word_name" translatable="false">Word</string>
+    <string name="dict_add_word_input" translatable="false">Input</string>
+    <string name="dict_add_input_same_as_word" translatable="false">Same as word</string>
+    <string name="dict_add_button" translatable="false">Add Word</string>
+</resources>
